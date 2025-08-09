@@ -1,5 +1,7 @@
 Goal: understand transformers so deeply that we can transcend it and invent the next architecture.
 
+Put "Coded & trained LLM like Anthropic's Claude 4 from the group up" on your resume.
+
 ## Matrix multipliecation
 - UI tools and tasks, game
 
@@ -15,13 +17,13 @@ Goal: understand transformers so deeply that we can transcend it and invent the 
 ## Single neuron forward pass
 
 ## Derivatives & Gradients
-    - A little bit of theory
-        - How to think of derivatives intuitively, what do they do (especially in nenuraln networks)
-    - Excercises (Google Colab, Kaggle, GitHub, Jupyther)
-    - Chain Rule
-    - Jacobian & Hessian
-    - Numerical Gradients
-    - Autograd
+- A little bit of theory
+    - How to think of derivatives intuitively, what do they do (especially in nenuraln networks)
+- Excercises (Google Colab, Kaggle, GitHub, Jupyther)
+- Chain Rule
+- Jacobian & Hessian
+- Numerical Gradients
+- Autograd
 
 
 
@@ -34,6 +36,8 @@ Goal: understand transformers so deeply that we can transcend it and invent the 
 ## MLP
 
 ## Attention Mechanism
+1. [Attention Mechanism Theory - Start at 1:32:43](https://youtu.be/wcDV3l4CD14?t=5563)
+2. [Google Colab - MASTER Attention  Mechanism](https://colab.research.google.com/drive/1fXBwHN5tWkE_Kh8jVmfUoyNLrLum_eL6?usp=sharing)
 - GQA
 - MLA
 
