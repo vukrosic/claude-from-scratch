@@ -8,7 +8,9 @@ Goal: understand transformers so deeply that we can transcend it and invent the 
 
 - Learn To Convert Numeric Data Types
     - 2x / 4x / 8x faster AI training and same memory reduction
-[Google Colab](https://chatgpt.com/share/68972df4-d218-8002-a734-a4793430927a)
+[Google Colab](https://colab.research.google.com/drive/1NOC3wLWLxNUY-_rki0SXzpov26ajFSW0?usp=sharing)
+[ChatGPT](https://chatgpt.com/share/68972df4-d218-8002-a734-a4793430927a)
+
 
 ## Single neuron forward pass
 
