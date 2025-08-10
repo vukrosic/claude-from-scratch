@@ -13,6 +13,19 @@ Put "Coded & trained LLM like Anthropic's Claude 4 from the group up" on your re
     - [Google Colab](https://colab.research.google.com/drive/1NOC3wLWLxNUY-_rki0SXzpov26ajFSW0?usp=sharing)
     - [ChatGPT](https://chatgpt.com/share/68972df4-d218-8002-a734-a4793430927a)
 
+### FP4
+
+YouTube - https://youtu.be/UqN0cNfKbAM
+
+Bilibili - http://bilibili.com/video/BV1yybKzmEvF/
+
+GitHub - https://github.com/vukrosic/llm-fp4-pretraining-research
+
+Colab - https://colab.research.google.com/drive/1c6bC6x_9-99qNmmC5zm0v2GOasZSTzun?usp=sharing
+
+Code LLM (GPT-5, DeepSeek, Qwen3, Llama4) from scratch - https://github.com/vukrosic/open-source-ai-2026
+
+
 
 ## Single neuron forward pass
 
@@ -36,14 +49,18 @@ Put "Coded & trained LLM like Anthropic's Claude 4 from the group up" on your re
 ## MLP
 
 ## Attention Mechanism
-1. [Attention Mechanism Theory - Start at 1:32:43](https://youtu.be/wcDV3l4CD14?t=5563)
-2. [Google Colab - MASTER Attention  Mechanism](https://colab.research.google.com/drive/1fXBwHN5tWkE_Kh8jVmfUoyNLrLum_eL6?usp=sharing)
+- [Attention Mechanism Theory - Start at 1:32:43](https://youtu.be/wcDV3l4CD14?t=5563)
+- Fun Attention Experiment To Pay Attention To The Biggest Number (SHOCKING Results)
+    - [YouTube](https://youtu.be/xsgaI-udBWc)
+    - [Google Colab](https://colab.research.google.com/drive/1fXBwHN5tWkE_Kh8jVmfUoyNLrLum_eL6?usp=sharing)
+    - [Bilibili](https://www.bilibili.com/video/BV1z9tazCEEf/)
 - GQA
 - MLA
 
 ## RoPE
 
 ## Attention & RoPE Interaction
+- 
 
 ## Feedforward Network In Transformer
 - SwiGLU
